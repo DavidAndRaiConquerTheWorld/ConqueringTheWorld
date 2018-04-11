@@ -1,1 +1,1 @@
-console.log('GitHub is awesome!')
+console.log('David is stupid')
